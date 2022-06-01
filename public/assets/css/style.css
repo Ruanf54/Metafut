@@ -1,0 +1,39 @@
+.fundo-body {
+    background-color:black;
+}
+.exemple {
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    color:rgb(255, 255, 0);
+    text-align: center;
+}
+.containerNew{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.container {
+    float: right;
+}
+.container-1 {
+    float: right;
+}
+
+.login-center {
+    text-align: center;
+    background-color: rgba(50, 255, 101, 0.3);
+    border-radius: 2%;
+    padding: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+}
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+  }
+p {
+    top: 30px;
+}
